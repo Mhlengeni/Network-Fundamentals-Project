@@ -18,9 +18,9 @@ other ones for the clients in the same directory the code is located.
 <li>Run the clients by running: python client.py</li>
 <li>Follow this sequence of commands on the client terminal:<li>
   <ol>
-  <li>ACCT <username> <password></li>
-  <li>USER \<username\></li>
-  <li>PASS <password></li>
+  <li>ACCT username password</li>
+  <li>USER username</li>
+  <li>PASS password</li>
   <li>NOOP</li>
   <li>HELP</li>
   <li>READY</li>
